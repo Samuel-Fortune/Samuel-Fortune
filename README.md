@@ -13,9 +13,6 @@ My name is Fortune I am a Frontend developer and designer, and I have built webs
 * 🤝  I'm open to collaborating on PHP/WordPress customisation projects for Large, medium and small scale business with special needs
 * ⚡  Fun fact: I enjoying cook as much as I enjoy eating
 
-<a href="https://www.github.com/Samuel-Fortune" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Samuel-Fortune?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 
@@ -47,6 +44,10 @@ src="https://img.shields.io/github/followers/Samuel-Fortune?logo=github&style=fo
 ### Badges
 
 <b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Samuel-Fortune"><img src="https://github-readme-stats.vercel.app/api?username=Samuel-Fortune&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Samuel-Fortune's GitHub stats" /></a>
+
+<a href="http://www.github.com/Samuel-Fortune"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Samuel-Fortune&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/Samuel-Fortune"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Samuel-Fortune&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
