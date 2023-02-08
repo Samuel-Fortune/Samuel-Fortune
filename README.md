@@ -59,4 +59,4 @@ My name is Fortune I am a Frontend developer and designer, and I have built webs
 
 ### Support Me
 
-<a href="https://www.buymeacoffee.com/samuel"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="[https://www.buymeacoffee.com/samuel](https://www.buymeacoffee.com/samuelchibr)"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
