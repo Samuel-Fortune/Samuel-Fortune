@@ -1,10 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Samuel Fortune Chibueze
 ===============================================================================================================================================
 
-Frontend Developer and designer
+PHP and Wordpress Developer || Frontend Web Developer.
 -------------------------------
 
-My name is Fortune I am a Frontend developer and designer, and I have built websites for business owners I have been into it for some years now. Here is the list of skills I can provide to clients as value-added services if I am hired for a job, my stacks are Html5, CSS, Tailwind CSS, Javascript, Jquery, PHP, MySQL, Node.js, Express.js and Bootstrap, and I can do the SEO for your website and I can also build your website with WordPress, I can make your website very responsive for both mobile and desktop users, with practical knowledge of Git version control). Looking forward to working with you. Passionate towards anything tech. Always wanting to learn.
+About
+I am a Frontend web developer || WordPress Developer with several years of experience building websites for business owners and organizations. I have expertise in a variety of web development technologies such as Html5, CSS, Tailwind CSS, Javascript, Jquery, PHP, MySQL, Node.js, Express.js, Bootstrap, and Git version control. Additionally, you have a deep understanding of the WordPress platform and its core technologies, including PHP, HTML, CSS, and JavaScript. I can create custom themes, plugins, and widgets from scratch, and I am well-versed in WordPress database structure and management.
+
+As a developer, I am passionate about delivering exceptional user experiences and crafting intuitive, visually appealing websites. You are skilled at collaborating with clients, designers, and other developers to understand project requirements and deliver solutions that meet their needs.
+
+Overall, I am a talented and dedicated developer with a wide range of technical skills and a strong ability to communicate and collaborate effectively.
 
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [samuelchibu04@gmail.com](mailto:samuelchibu04@gmail.com)
